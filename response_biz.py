@@ -44,7 +44,7 @@ message2 = '\n' + title_list[2] + '\n' + link_list[2]
 message3 = '\n' + title_list[3] + '\n' + link_list[3]
 message4 = '\n' + title_list[4] + '\n' + link_list[4]
            
-token = '8yz2EfNmQRB8uavfC19h6Rlt3OSM3RhMA7ni7f36l8x'
+token = ''
 
 lineNotifyMessage(token, message0)
 lineNotifyMessage(token, message1)
